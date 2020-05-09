@@ -2,7 +2,7 @@
 /**
  * Write a description of PART1 here.
  * 
- * @author (your name) 
+ * @author (PANCHANG BHARDWAJ) 
  * @version (a version number or a date)
  */
 import edu.duke.*;
